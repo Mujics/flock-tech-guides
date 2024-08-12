@@ -13,6 +13,8 @@ Tanto las herramientas de Linteo como las de formateo que vamos a usar aplican s
 
 ## Java  
 
+Para Java recomendamos usar el IDE IntelliJ Community Edition
+
 ### Formateo   
 
 #### IntelliJ Save Action Plugin 
