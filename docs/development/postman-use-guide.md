@@ -1,4 +1,8 @@
-# Guia Postman 
+# Guia de Uso Postman 
+
+![postman-gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWhta2VyamhjZzNoNHFxMWp3YWJtYWI0ajViN2hnZzU1eXBtdjlkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eoIqbd2HHaKSQ/giphy.gif)
+
+
 ## Introducción 
 
 La siguiente guia tiene como objetivo explicar el uso de la herramienta [Postman](https://www.postman.com/) 
