@@ -2,7 +2,10 @@ module.exports = {
   docs: 
   {
     'Introduction': ['intro'],
-    'Development': ['development/style-guide'],
+    'Development': [
+      'development/style-guide',
+      'development/postman-use-guide'
+    ],
     'Backend': [ 
       {
         type: 'category',
@@ -19,8 +22,30 @@ module.exports = {
         [
           'backend/net-core/net-core'
         ],
-      } 
-    ], 
+      }, 
+    ],
+    'Front-end': [ 
+      {
+        type: 'category',
+        label: 'Angular',
+        items: 
+        [
+          'front-end/angular/angular'
+        ],
+      },
+      {
+        type: 'category',
+        label: 'React',
+        items: 
+        [
+          'front-end/react/react'
+        ],
+      }, 
+    ],
+    'Presentaciones': [
+      'presentaciones/docusaurus',
+      'presentaciones/codeium'
+    ]
   },
 };
 
