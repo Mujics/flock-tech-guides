@@ -45,6 +45,17 @@ module.exports = {
     'Presentaciones': [
       'presentaciones/docusaurus',
       'presentaciones/codeium'
+    ],
+    'Proyectos': [
+      {
+        type: 'category',
+        label: 'Pivot',
+        items: 
+        [
+          'proyectos/pivot/capas-de-librerias',
+          'proyectos/pivot/lambda-documentacion'
+        ],
+      }
     ]
   },
 };
