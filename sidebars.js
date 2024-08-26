@@ -49,11 +49,11 @@ module.exports = {
     'Proyectos': [
       {
         type: 'category',
-        label: 'Pivot',
+        label: 'Pibot',
         items: 
         [
-          'proyectos/pivot/capas-de-librerias',
-          'proyectos/pivot/lambda-documentacion'
+          'proyectos/pibot/capas-de-librerias',
+          'proyectos/pibot/lambda-documentacion'
         ],
       }
     ],
