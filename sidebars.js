@@ -56,6 +56,19 @@ module.exports = {
           'proyectos/pivot/lambda-documentacion'
         ],
       }
+    ],
+    'infrastructure': [
+      {
+        type: 'category',
+        label: 'IBM Cibersecurity Series 2024',
+        items: 
+        [
+          'infrastructure/ibm-cibersecurity-series-2024/ai-in-security',
+          'infrastructure/ibm-cibersecurity-series-2024/estrategia-de-ciberseguridad-en-los-negocios',
+          'infrastructure/ibm-cibersecurity-series-2024/gestion-de-identidades',
+          'infrastructure/ibm-cibersecurity-series-2024/seguridad-de-los-datos'
+        ],
+      }
     ]
   },
 };
