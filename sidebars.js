@@ -4,7 +4,8 @@ module.exports = {
     'Introduction': ['intro'],
     'Development': [
       'development/style-guide',
-      'development/postman-use-guide'
+      'development/postman-use-guide',
+      'development/redhat-dependency-analitycs/redhat-dependency-analitycs'
     ],
     'Backend': [ 
       {
