@@ -1,4 +1,5 @@
-# PiBot: Bot de Feedback 360 para Slack
+# PiBot: Documentacion funcional
+# Bot de Feedback 360 para Slack
 
 ## Descripción General
 
