@@ -54,7 +54,8 @@ module.exports = {
         items: 
         [
           'proyectos/pibot/capas-de-librerias',
-          'proyectos/pibot/lambda-documentacion'
+          'proyectos/pibot/lambda-documentacion',
+          'proyectos/pibot/documento-funcional'
         ],
       }
     ],
