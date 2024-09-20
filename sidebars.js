@@ -57,6 +57,14 @@ module.exports = {
           'proyectos/pibot/lambda-documentacion',
           'proyectos/pibot/documento-funcional'
         ],
+      },
+      {
+        type: 'category',
+        label: 'Backend para Training',
+        items: 
+        [
+          'proyectos/backend-para-training/backend-para-training'
+        ],
       }
     ],
     'infrastructure': [
