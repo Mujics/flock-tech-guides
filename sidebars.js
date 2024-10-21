@@ -5,7 +5,8 @@ module.exports = {
     'Development': [
       'development/style-guide',
       'development/postman-use-guide',
-      'development/redhat-dependency-analitycs/redhat-dependency-analitycs'
+      'development/redhat-dependency-analitycs/redhat-dependency-analitycs',
+      'development/cursor/cursor-guide'
     ],
     'Backend': [ 
       {
